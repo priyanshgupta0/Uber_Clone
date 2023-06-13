@@ -15,14 +15,14 @@ ScreenShots of the Project
 
 HomeScreen
 
-<img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/efa09f2f-114d-47f1-8b23-8961ece39f0d" width = 200>
+<img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/efa09f2f-114d-47f1-8b23-8961ece39f0d" width = 250>
 
 Google Places Auto Complete Using Google MAps API key at HommeScreen
 
 <p float="left">
-  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/97b9f1d9-09c1-46c7-8e99-0bff905d7ccf" width="200" />
-  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/c88a9b5e-f181-43cc-a6cb-5197844d2a3b" width="200" /> 
-  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/24df6426-cb90-47ee-992a-ffeec6de5537" width="200" />
+  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/97b9f1d9-09c1-46c7-8e99-0bff905d7ccf" width="250" />
+  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/c88a9b5e-f181-43cc-a6cb-5197844d2a3b" width="250" /> 
+  <img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/24df6426-cb90-47ee-992a-ffeec6de5537" width="250" />
 </p>
 
 Select Destination Screen 
