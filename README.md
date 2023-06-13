@@ -17,7 +17,7 @@ HomeScreen
 
 ![Home Screen](https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/efa09f2f-114d-47f1-8b23-8961ece39f0d)
 
-<img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/efa09f2f-114d-47f1-8b23-8961ece39f0d" height = 200>
+<img src="https://github.com/priyanshgupta0/Uber_Clone/assets/77960686/efa09f2f-114d-47f1-8b23-8961ece39f0d" height = 1000>
 
 Google Places Auto Complete Using Google MAps API key at HommeScreen
 
